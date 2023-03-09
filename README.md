@@ -7,9 +7,9 @@
         <h1>Hi there! Welcome to my GitHub 👋</h1><br>
         <ul>
             <li> I'm a Back-end and Unity Developer graduated from Holberton 💻</li>
-            <li> Experienced on working with Python, C#, C, Bash scripting, Java, Linux and MySQL ⌨️</li>
-            <li> I use programming paradigms such as OOP, Procedural, and Functional 📝</li>
-            <li> Currently working on the development of videogames 👾</li>
+            <li> Experienced on working with Python, Java, C#, Angular, SpringBoot, Unity, Linux and MySQL ⌨️</li>
+            <li> Handling programming paradigms such as OOP, Procedural, and Functional 📝</li>
+            <li> Currently working as Full-Stack Developer at IAS Software 👾</li>
         </ul><br>
         <picture>
             <source 
