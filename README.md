@@ -7,9 +7,9 @@
         <h1>Hi there! Welcome to my GitHub 👋</h1><br>
         <ul>
             <li> I'm a Full-stack and Unity Developer graduated from Holberton 💻</li>
-            <li> Experienced on working with Python, Java, C#, Angular, Unity, AWS and MySQL ⌨️</li>
+            <li> Experienced on working with NodeJs, Javascript, Python, Java, C#, Angular, Unity, AWS, MySQL and NoSQL databases ⌨️</li>
             <li> Handling programming paradigms such as OOP, Procedural, and Functional 📝</li>
-            <li> Currently working as Full-Stack Developer at IAS Software 👾</li>
+            <li> Currently working as Fullstack Software Developer at IAS Software 👾</li>
         </ul><br>
         <picture>
             <source 
